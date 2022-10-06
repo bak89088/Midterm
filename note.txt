@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Century: Age of Ashes
 The Isle
 Beasts of Bermuda
+=======
+Cookies
+Beef Jerky
+Cheeze-Itz
+>>>>>>> snacks
